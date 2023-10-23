@@ -1,6 +1,7 @@
 ### Hi there 👋
+[![An image of @shabber10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shabber10)](https://holopin.io/@shabber10)
 
-<!--
+
 **Shabber10/Shabber10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
