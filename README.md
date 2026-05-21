@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Shabber!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Shabber!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50"/>
   
   [![An image of @shabber10's Holopin badges](https://holopin.me/shabber10)](https://holopin.io/@shabber10)
 </div>
