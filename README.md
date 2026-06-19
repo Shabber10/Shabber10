@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying at **Parul University** — pursuing excellence in software engineering
+- 🎓 Completed studying at **Parul University** — pursuing excellence in software engineering
 - 🌱 Deep diving into **Backend Development** to become a complete Full-Stack wizard
 - 🚀 Building **Codegnan Student Portal** — a premium LMS dashboard with AI integration
 - 👯 Looking to collaborate on exciting projects with **Startup Companies**
