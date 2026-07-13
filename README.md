@@ -38,6 +38,37 @@
 
 ---
 
+### 🏆 Google Developer Badges
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" title="Google Cloud Innovator">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="90" height="90" alt="Google Cloud Innovator">
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus" title="Google Developer Program premium tier">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" height="90" alt="Google Developer Program premium tier">
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/android/sdk-platform-tools" title="Android SDK Platform Tools">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="90" height="90" alt="Android SDK Platform Tools">
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" title="Android Studio User">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" width="90" height="90" alt="Android Studio User">
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio-panda" title="Android Studio - Panda releases">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio-panda/badge.svg" width="90" height="90" alt="Android Studio - Panda releases">
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/forums/user/looker" title="Looker forums user">
+    <img src="https://developers.google.com/static/profile/badges/community/forums/user/looker/badge.svg" width="90" height="90" alt="Looker forums user">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://me.developers.google.com/u/115204311265002674693">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-115204311265002674693-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Developer Profile">
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
