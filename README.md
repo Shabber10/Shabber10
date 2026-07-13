@@ -38,7 +38,9 @@
 
 ---
 
-### 🏆 Google Developer Badges
+### 🏆 Badges & Credentials
+
+#### 🌐 Google Developer Profile
 
 <p align="center">
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" title="Google Cloud Innovator">
@@ -64,6 +66,14 @@
 <p align="center">
   <a href="https://me.developers.google.com/u/115204311265002674693">
     <img src="https://img.shields.io/badge/Google%20Developer%20Profile-115204311265002674693-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Developer Profile">
+  </a>
+</p>
+
+#### 🚀 Hackathon & Open Innovation
+
+<p align="center">
+  <a href="https://www.namespace.world/credentials/badges/8foPVqxnof0y" title="HACKHAZARDS '26 Project Submitted">
+    <img src="https://img.shields.io/badge/HACKHAZARDS%20'26-Project%20Submitted-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="HACKHAZARDS '26 Project Submitted">
   </a>
 </p>
 
