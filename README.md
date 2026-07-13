@@ -77,6 +77,14 @@
   </a>
 </p>
 
+#### 📍 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@shabber10">
+    <img src="https://holopin.me/shabber10" alt="An image of @shabber10's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
