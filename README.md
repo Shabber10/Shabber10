@@ -123,6 +123,7 @@
 | Project | Description | Live |
 |---------|-------------|------|
 | 🎓 **Codegnan Student Portal** | Premium LMS dashboard with AI mascot, leaderboard & ATS resume analyzer | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://codegnan-student-portal.onrender.com/) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://codegnan-shabber.netlify.app/) |
+| 📈 **StockSense India** | Premium glassmorphic financial dashboard with real-time Yahoo Finance resolver & AI analysis | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://stocksence-india.onrender.com/) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://stocksenceindia.netlify.app/) |
 | 🏥 **CareWeave Healthcare** | Full-stack hospital management with role-based dashboards & OTP auth | [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat)](https://shabber10.github.io/hospital-management-system/) |
 | 🧙 **Harry Potter Web** | Immersive Potterhead website with glassmorphism UI & magical aesthetics | [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://shabber-harry-potter.netlify.app) |
 | 🎙️ **VoiceWeaver** | Premium zero-latency TTS app with multilingual OCR | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://voiceweaver.onrender.com) |
