@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+    <style>
+      .title { font: 600 18px 'Outfit', sans-serif; fill: #fe428e; }
+      .text { font: 400 13px 'Outfit', sans-serif; fill: #a9fef7; }
+    </style>
+    <rect x="0.5" y="0.5" width="449" height="194" rx="10" fill="#141321" stroke="rgba(255,255,255,0.08)"/>
+    <g transform="translate(25, 35)">
+      <text x="0" y="0" class="title">Top Languages</text>
+    </g>
+    <g transform="translate(25, 60)">
+      <svg width="400" height="10">
+        <rect width="400" height="10" rx="5" fill="none"/>
+        <clipPath id="bar-clip">
+          <rect width="400" height="10" rx="5"/>
+        </clipPath>
+        <g clip-path="url(#bar-clip)">
+          <rect x="0" y="0" width="92.4" height="10" fill="#3572A5"/><rect x="92.4" y="0" width="61.6" height="10" fill="#563d7c"/><rect x="154.0" y="0" width="61.6" height="10" fill="#e34c26"/><rect x="215.6" y="0" width="61.6" height="10" fill="#3178c6"/><rect x="277.2" y="0" width="61.6" height="10" fill="#f1e05a"/>
+        </g>
+      </svg>
+    </g>
+    <g transform="translate(25, 90)">
+      
+        <g transform="translate(0, 0)">
+          <circle cx="5" cy="8" r="5" fill="#3572A5"/>
+          <text x="15" y="12" class="text">Python <tspan fill="#a9fef7" opacity="0.75">23.1%</tspan></text>
+        </g>
+        
+        <g transform="translate(200, 0)">
+          <circle cx="5" cy="8" r="5" fill="#563d7c"/>
+          <text x="15" y="12" class="text">CSS <tspan fill="#a9fef7" opacity="0.75">15.4%</tspan></text>
+        </g>
+        
+        <g transform="translate(0, 22)">
+          <circle cx="5" cy="8" r="5" fill="#e34c26"/>
+          <text x="15" y="12" class="text">HTML <tspan fill="#a9fef7" opacity="0.75">15.4%</tspan></text>
+        </g>
+        
+        <g transform="translate(200, 22)">
+          <circle cx="5" cy="8" r="5" fill="#3178c6"/>
+          <text x="15" y="12" class="text">TypeScript <tspan fill="#a9fef7" opacity="0.75">15.4%</tspan></text>
+        </g>
+        
+        <g transform="translate(0, 44)">
+          <circle cx="5" cy="8" r="5" fill="#f1e05a"/>
+          <text x="15" y="12" class="text">JavaScript <tspan fill="#a9fef7" opacity="0.75">15.4%</tspan></text>
+        </g>
+        
+    </g>
+  </svg>
