@@ -85,23 +85,18 @@
 
 ### 📊 GitHub Showcase & Stats
 
-<div align="center">
-  <!-- GitHub Stats Card (Static SVG) -->
-  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/stats.svg" alt="Shabber10's GitHub Stats" height="195px" />
-  <!-- Top Languages Card (Static SVG) -->
-  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/langs.svg" alt="Shabber10's Top Languages" height="195px" />
-</div>
+<p align="center">
+  <!-- Grouping Stats and Languages Side-by-Side on a single line -->
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/stats.svg" alt="Stats" height="195" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/langs.svg" alt="Languages" height="195" />
+</p>
 
-<br/>
+<p align="center">
+  <!-- Sizing Streak Card to match height of others and center it -->
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/streak.svg" alt="Streak" height="195" />
+</p>
 
-<div align="center">
-  <!-- Streak Stats Card (Static SVG) -->
-  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/streak.svg" alt="Shabber10's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Trophies Showcase Card (Working Mirror) -->
-  <img src="https://github-profile-trophies.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
-</div>
+<p align="center">
+  <!-- Sizing Trophies Showcase -->
+  <img src="https://github-profile-trophies.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Trophies" height="150" />
+</p>
