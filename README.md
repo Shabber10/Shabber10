@@ -38,29 +38,33 @@
 
 ---
 
-### 🏆 Google Developer Badges & Credentials
+### 🏆 Google Developer Profile Badges
 
 <p align="center">
-  <!-- Google Cloud Innovator Badge -->
+  <!-- Google Cloud Innovator -->
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" title="Google Cloud Innovator">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="90" height="90" alt="Google Cloud Innovator">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="95" height="95" alt="Google Cloud Innovator">
   </a>
-  <!-- Google Developer Program Premium Badge -->
+  <!-- Google Developer Program Premium -->
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus" title="Google Developer Program premium tier">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" height="90" alt="Google Developer Program premium tier">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="95" height="95" alt="Google Developer Program premium tier">
   </a>
-</p>
-
-<p align="center">
-  <!-- Custom Achievement Badges (Shields.io) -->
-  <img src="https://img.shields.io/badge/Google_Cloud-Innovator-blue?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4" alt="Google Cloud Innovator" />
-  <img src="https://img.shields.io/badge/Google_Developer-Premium_Tier-blue?style=for-the-badge&logo=google&logoColor=white&color=4285F4" alt="Google Developer Program Premium" />
-  <br/>
-  <img src="https://img.shields.io/badge/Android_Studio-User-green?style=for-the-badge&logo=androidstudio&logoColor=white&color=3DDC84" alt="Android Studio User" />
-  <img src="https://img.shields.io/badge/Android_Studio-Panda_Releases-green?style=for-the-badge&logo=androidstudio&logoColor=white&color=3DDC84" alt="Android Studio Panda Releases" />
-  <br/>
-  <img src="https://img.shields.io/badge/Android_SDK-Platform_Tools-green?style=for-the-badge&logo=android&logoColor=white&color=3DDC84" alt="Android SDK Platform Tools" />
-  <img src="https://img.shields.io/badge/Looker_Forums-User-purple?style=for-the-badge&logo=looker&logoColor=white&color=0080FF" alt="Looker Forums User" />
+  <!-- Android Studio User -->
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" title="Android Studio User">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" width="95" height="95" alt="Android Studio User">
+  </a>
+  <!-- Android Studio - Panda releases -->
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio-panda" title="Android Studio - Panda releases">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio-panda/badge.svg" width="95" height="95" alt="Android Studio - Panda releases">
+  </a>
+  <!-- Android SDK Platform Tools -->
+  <a href="https://developers.google.com/profile/badges/activity/android/sdk-platform-tools" title="Android SDK Platform Tools">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="95" height="95" alt="Android SDK Platform Tools">
+  </a>
+  <!-- Looker Forums User -->
+  <a href="https://developers.google.com/profile/badges/community/forums/user/looker" title="Looker forums user">
+    <img src="https://developers.google.com/static/profile/badges/community/forums/user/looker/badge.svg" width="95" height="95" alt="Looker forums user">
+  </a>
 </p>
 
 ---
