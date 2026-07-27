@@ -38,15 +38,62 @@
 
 ---
 
-### 🏆 Badges & Credentials
-
-#### 🌐 Google Developer Profile
+### 🏆 Google Developer Badges & Credentials
 
 <p align="center">
+  <!-- Google Cloud Innovator Badge -->
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" title="Google Cloud Innovator">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="90" height="90" alt="Google Cloud Innovator">
   </a>
+  <!-- Google Developer Program Premium Badge -->
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus" title="Google Developer Program premium tier">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" height="90" alt="Google Developer Program premium tier">
   </a>
-  <a href="https://developers.google.
+</p>
+
+<p align="center">
+  <!-- Custom Achievement Badges (Shields.io) -->
+  <img src="https://img.shields.io/badge/Google_Cloud-Innovator-blue?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4" alt="Google Cloud Innovator" />
+  <img src="https://img.shields.io/badge/Google_Developer-Premium_Tier-blue?style=for-the-badge&logo=google&logoColor=white&color=4285F4" alt="Google Developer Program Premium" />
+  <br/>
+  <img src="https://img.shields.io/badge/Android_Studio-User-green?style=for-the-badge&logo=androidstudio&logoColor=white&color=3DDC84" alt="Android Studio User" />
+  <img src="https://img.shields.io/badge/Android_Studio-Panda_Releases-green?style=for-the-badge&logo=androidstudio&logoColor=white&color=3DDC84" alt="Android Studio Panda Releases" />
+  <br/>
+  <img src="https://img.shields.io/badge/Android_SDK-Platform_Tools-green?style=for-the-badge&logo=android&logoColor=white&color=3DDC84" alt="Android SDK Platform Tools" />
+  <img src="https://img.shields.io/badge/Looker_Forums-User-purple?style=for-the-badge&logo=looker&logoColor=white&color=0080FF" alt="Looker Forums User" />
+</p>
+
+---
+
+### 📌 Holopin Board
+
+<p align="center">
+  <a href="https://holopin.io/@shabber10">
+    <img src="https://holopin.io/api/user/badge?user=shabber10" alt="Shabber10's Holopin Badges" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Showcase & Stats
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com/?user=Shabber10&theme=radical" alt="Shabber10's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Trophies Showcase Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
+</div>
