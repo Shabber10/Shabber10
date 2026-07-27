@@ -49,103 +49,29 @@
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus" title="Google Developer Program premium tier">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" height="90" alt="Google Developer Program premium tier">
   </a>
-  <a href="https://developers.google.com/profile/badges/activity/android/sdk-platform-tools" title="Android SDK Platform Tools">
-    <img src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" width="90" height="90" alt="Android SDK Platform Tools">
-  </a>
-  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" title="Android Studio User">
-    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" width="90" height="90" alt="Android Studio User">
-  </a>
-  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio-panda" title="Android Studio - Panda releases">
-    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio-panda/badge.svg" width="90" height="90" alt="Android Studio - Panda releases">
-  </a>
-  <a href="https://developers.google.com/profile/badges/community/forums/user/looker" title="Looker forums user">
-    <img src="https://developers.google.com/static/profile/badges/community/forums/user/looker/badge.svg" width="90" height="90" alt="Looker forums user">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://me.developers.google.com/u/115204311265002674693">
-    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-115204311265002674693-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Developer Profile">
-  </a>
-</p>
-
-#### 🚀 Hackathon & Open Innovation
-
-<p align="center">
-  <a href="https://www.namespace.world/credentials/badges/8foPVqxnof0y" title="HACKHAZARDS '26 Project Submitted">
-    <img src="https://img.shields.io/badge/HACKHAZARDS%20'26-Project%20Submitted-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="HACKHAZARDS '26 Project Submitted">
-  </a>
-</p>
-
-#### 📍 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@shabber10">
-    <img src="https://holopin.me/shabber10" alt="An image of @shabber10's Holopin badges, which is a link to view their full Holopin profile" />
-  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Showcase & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shabber10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shabber10&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" width="70%" />
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com/?user=Shabber10&theme=radical" alt="Shabber10's GitHub Streak" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shabber10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shabber10&theme=tokyo-night&bg_color=0D1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Live |
-|---------|-------------|------|
-| 🎓 **Codegnan Student Portal** | Premium LMS dashboard with AI mascot, leaderboard & ATS resume analyzer | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://codegnan-student-portal.onrender.com/) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://codegnan-shabber.netlify.app/) |
-| 📈 **StockSense India** | Premium glassmorphic financial dashboard with real-time Yahoo Finance resolver & AI analysis | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://stocksence-india.onrender.com/) |
-| 🏥 **CareWeave Healthcare** | Full-stack hospital management with role-based dashboards & OTP auth | [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat)](https://shabber10.github.io/hospital-management-system/) |
-| 🧙 **Harry Potter Web** | Immersive Potterhead website with glassmorphism UI & magical aesthetics | [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://shabber-harry-potter.netlify.app) |
-| 🎙️ **VoiceWeaver** | Premium zero-latency TTS app with multilingual OCR | [![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)](https://voiceweaver.onrender.com) |
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shabber-hussain-0895711ab/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shabber.hussain.33633)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shabber10)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
-</div>
-
-<div align="center">
-  <i>"Focus on building high-quality, professional code — one commit at a time."</i>
+  <!-- Trophies Showcase Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
 </div>
