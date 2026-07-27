@@ -76,7 +76,9 @@
 ### 📌 Holopin Board
 
 <p align="center">
-  [![An image of @shabber10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shabber10)](https://holopin.io/@shabber10)
+  <a href="https://holopin.io/@shabber10">
+    <img src="https://holopin.me/shabber10" alt="An image of @shabber10's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
 </p>
 
 ---
