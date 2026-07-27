@@ -49,29 +49,4 @@
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus" title="Google Developer Program premium tier">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="90" height="90" alt="Google Developer Program premium tier">
   </a>
-</p>
-
----
-
-### 📊 GitHub Showcase & Stats
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=Shabber10&theme=radical" alt="Shabber10's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Trophies Showcase Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
-</div>
+  <a href="https://developers.google.
