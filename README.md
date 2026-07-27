@@ -87,9 +87,9 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
 </div>
 
 <br/>
@@ -103,5 +103,5 @@
 
 <div align="center">
   <!-- Trophies Showcase Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
 </div>
