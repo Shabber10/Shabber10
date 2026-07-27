@@ -86,22 +86,22 @@
 ### 📊 GitHub Showcase & Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Shabber10&show_icons=true&theme=radical&count_private=true" alt="Shabber10's GitHub Stats" height="195px" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Shabber10&layout=compact&theme=radical&langs_count=5" alt="Shabber10's Top Languages" height="195px" />
+  <!-- GitHub Stats Card (Static SVG) -->
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/stats.svg" alt="Shabber10's GitHub Stats" height="195px" />
+  <!-- Top Languages Card (Static SVG) -->
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/langs.svg" alt="Shabber10's Top Languages" height="195px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com/?user=Shabber10&theme=radical" alt="Shabber10's GitHub Streak" />
+  <!-- Streak Stats Card (Static SVG) -->
+  <img src="https://raw.githubusercontent.com/Shabber10/Shabber10/main/github-stats/streak.svg" alt="Shabber10's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Trophies Showcase Card -->
+  <!-- Trophies Showcase Card (Working Mirror) -->
   <img src="https://github-profile-trophies.vercel.app/?username=Shabber10&theme=radical&column=6&margin=true" alt="Shabber10's GitHub Trophies" />
 </div>
