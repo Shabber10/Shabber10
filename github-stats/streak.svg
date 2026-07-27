@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+    <style>
+      .streak-title { font: 600 14px 'Outfit', sans-serif; fill: #fe428e; }
+      .streak-value { font: 800 28px 'Outfit', sans-serif; fill: #a9fef7; }
+      .streak-dates { font: 400 11px 'Outfit', sans-serif; fill: #a9fef7; opacity: 0.6; }
+      .fire-anim { animation: pulse 2s infinite alternate; }
+    </style>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#141321" stroke="rgba(255,255,255,0.08)"/>
+    
+    <g transform="translate(50, 45)">
+      <text x="40" y="30" class="streak-title" text-anchor="middle">Total Contributions</text>
+      <text x="40" y="70" class="streak-value" text-anchor="middle" fill="#fe428e">305</text>
+      <text x="40" y="95" class="streak-dates" text-anchor="middle">Life time activity</text>
+    </g>
+
+    <line x1="180" y1="40" x2="180" y2="150" stroke="rgba(255,255,255,0.1)"/>
+
+    <g transform="translate(205, 45)">
+      <text x="40" y="30" class="streak-title" text-anchor="middle">Current Streak</text>
+      <text x="40" y="70" class="streak-value" text-anchor="middle" fill="#fe428e">14 Days</text>
+      <text x="40" y="95" class="streak-dates" text-anchor="middle">Active Developer</text>
+      <path class="fire-anim" d="M10 0C10 0 16 4 16 10C16 14 13 17 9 17C5 17 2 14 2 10C2 6 7 2 7 2C7 2 5 5 5 8C5 10.5 7 12 8.5 12C10 12 11 11 11 9.5C11 8 9 7 9 4.5C9 2 10 0 10 0Z" fill="#fe428e" transform="translate(30, -5) scale(0.8)"/>
+    </g>
+
+    <line x1="335" y1="40" x2="335" y2="150" stroke="rgba(255,255,255,0.1)"/>
+
+    <g transform="translate(360, 45)">
+      <text x="40" y="30" class="streak-title" text-anchor="middle">Longest Streak</text>
+      <text x="40" y="70" class="streak-value" text-anchor="middle">28 Days</text>
+      <text x="40" y="95" class="streak-dates" text-anchor="middle">Peak Performance</text>
+    </g>
+  </svg>
