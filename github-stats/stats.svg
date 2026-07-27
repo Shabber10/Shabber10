@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+    <style>
+      .title { font: 600 18px 'Outfit', 'Segoe UI', Ubuntu, sans-serif; fill: #fe428e; }
+      .text { font: 400 14px 'Outfit', 'Segoe UI', Ubuntu, sans-serif; fill: #a9fef7; }
+      .bold { font-weight: 600; }
+      .rank-title { font: 600 12px 'Outfit', sans-serif; fill: #fe428e; }
+      .rank-val { font: 800 36px 'Outfit', sans-serif; fill: #fe428e; text-shadow: 0px 0px 8px rgba(255,255,255,0.1); }
+    </style>
+    <rect x="0.5" y="0.5" width="449" height="194" rx="10" fill="#141321" stroke="rgba(255,255,255,0.08)"/>
+    <g transform="translate(25, 35)">
+      <text x="0" y="0" class="title">Shabber Hussain's GitHub Stats</text>
+    </g>
+    <g transform="translate(25, 60)">
+      <g transform="translate(0, 10)">
+        <path d="M8 0L10.5 5.5L16 6L12 10L13.5 16L8 13L2.5 16L4 10L0 6L5.5 5.5L8 0Z" fill="#fe428e" transform="scale(0.8) translate(0, 2)"/>
+        <text x="20" y="14" class="text">Total Stars:</text>
+        <text x="135" y="14" class="text bold">15</text>
+      </g>
+      <g transform="translate(0, 32)">
+        <path d="M8 2C4.7 2 2 4.7 2 8C2 10.2 3.2 12.1 5 13.1V15C5 15.6 5.4 16 6 16H10C10.6 16 11 15.6 11 15V13.1C12.8 12.1 14 10.2 14 8C14 4.7 11.3 2 8 2ZM8 12C5.8 12 4 10.2 4 8C4 5.8 5.8 4 8 4C10.2 4 12 5.8 12 8C12 10.2 10.2 12 8 12Z" fill="#fe428e" transform="scale(0.8) translate(0, 2)"/>
+        <text x="20" y="14" class="text">Total Commits:</text>
+        <text x="135" y="14" class="text bold">305</text>
+      </g>
+      <g transform="translate(0, 54)">
+        <path d="M5 3C5 1.9 4.1 1 3 1C1.9 1 1 1.9 1 3C1 3.9 1.6 4.7 2.4 4.9C2.2 6.2 1.8 7.5 1.2 8.7C0.8 9.3 0.3 10 0 10.6L1.4 12C2.1 11 2.8 9.8 3.3 8.6C3.9 7.2 4.4 5.7 4.6 4.2C5.4 3.9 6 3.1 6 3H5Z" fill="#fe428e" transform="scale(1) translate(0, 2)"/>
+        <text x="20" y="14" class="text">Total PRs:</text>
+        <text x="135" y="14" class="text bold">20</text>
+      </g>
+      <g transform="translate(0, 76)">
+        <path d="M8 8C10.2 8 12 6.2 12 4C12 1.8 10.2 0 8 0C5.8 0 4 1.8 4 4C4 6.2 5.8 8 8 8ZM8 10C5.3 10 0 11.3 0 14V16H16V14C16 11.3 10.7 10 8 10Z" fill="#fe428e" transform="scale(0.8) translate(0, 2)"/>
+        <text x="20" y="14" class="text">Followers:</text>
+        <text x="135" y="14" class="text bold">6</text>
+      </g>
+    </g>
+    <g transform="translate(330, 75)">
+      <circle cx="45" cy="45" r="40" fill="none" stroke="#fe428e" stroke-width="4" opacity="0.3"/>
+      <circle cx="45" cy="45" r="40" fill="none" stroke="#fe428e" stroke-width="4" stroke-dasharray="250" stroke-dashoffset="60" transform="rotate(-90 45 45)"/>
+      <text x="45" y="55" text-anchor="middle" class="rank-val">A+</text>
+      <text x="45" y="100" text-anchor="middle" class="rank-title">RANK</text>
+    </g>
+  </svg>
