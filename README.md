@@ -65,10 +65,7 @@
   <a href="https://developers.google.com/profile/badges/community/forums/user/looker" title="Looker forums user">
     <img src="https://developers.google.com/static/profile/badges/community/forums/user/looker/badge.svg" width="95" height="95" alt="Looker forums user">
   </a>
-  <!-- Holopin Badge -->
-  <a href="https://holopin.io/@shabber10" title="Holopin Badge">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGxiYTZ5ZW4xNTE3MDBmbDRhdHdudWZ2dyIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="95" height="95" alt="Holopin Badge">
-  </a>
+  
 </p>
 
 ---
